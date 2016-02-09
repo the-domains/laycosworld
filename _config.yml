@@ -1,6 +1,6 @@
 name: laycosWorld
 favicon: null
-layout_spectrum: 0.5832638808060437
+layout_spectrum: 0
 typography_spectrum: 0.74893
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.125
+    - '#020202'
+    - '#cfcfcf'
+    - '#afafaf'
+    - '#414141'
+    - '#747474'
+  brandStrength: 0.8125
   lightness: 0.9326843174640089
-  saturation: 0.9161337101832032
-  rhythmicContrast: 0.565323677379638
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
